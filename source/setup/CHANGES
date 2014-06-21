@@ -1,0 +1,34 @@
+1.1 - 2008/10/08
+----------------
+CHANGES:
+- Migration to Innomatic (Alex Pagnoni).
+
+
+
+1.0.3 - 2004/04/15
+------------------
+FIXES:
+- Changed five call-time pass-by-reference in scaleimage.php.
+
+
+
+1.0.2 - 2003/03/25
+------------------
+CHANGES:
+- Now category is "libraries". (Alex Pagnoni)
+
+
+
+1.0.1 - 2002/05/28
+------------------
+CHANGES:
+- Changed to call by reference in a function definition, which is the prefered way.
+
+FIXES:
+- Changed the Content-Type header to more correct values.
+
+
+
+1.0.0 - 2002/05/24
+------------------
+- First release.
