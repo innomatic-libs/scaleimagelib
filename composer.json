@@ -1,0 +1,17 @@
+{
+    "name": "innomatic-libs/scaleimagelib",
+    "description": "With the ScaleImage class you can easily, in two lines of code manipulate your images",
+    "homepage": "http://www.innomatic.io",
+    "license": "GPL-2.0",
+    "type": "innomatic-legacy-application",
+    "authors": [
+        {
+            "name": "Innomatic Team",
+            "homepage": "http://www.innomatic.io"
+        }
+    ],
+    "require": {
+        "innomatic/innomatic-legacy-installer": "^1.0@alpha",
+        "innomatic/innomatic-legacy": ">=6.4 <8.0"
+    }
+}
