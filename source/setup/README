@@ -1,0 +1,46 @@
+General information
+-------------------
+
+With the ScaleImage class you can easyly, in two lines of code manipulate your images.
+
+Scale logical from height, width or percentage, or just from x and y cordinates.
+At the same time transform from eg. png to jpg.
+
+
+License
+-------
+See the file named LICENSE.
+
+
+
+Requirements
+------------
+
+Serverside:
+	A working Innomatic platform installation.
+
+Clientside:
+	a web browser with HTML 4.0 and CSS support.
+
+
+
+Installation
+------------
+
+See the file named INSTALL.
+
+
+
+Additional Information
+----------------------
+
+Innomatic official home page:
+	http://www.innomatica.it
+
+
+
+Disclaimer
+----------
+
+There is no warranty, expressed or implied, associated with this product.
+Use at your own risk.
